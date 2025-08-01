@@ -12,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weidage258)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Weidage258)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weidage258)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Weidage258}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+
+<img src="https://komarev.com/ghpvc/?username={Weidage258}&abbreviated=true" />
