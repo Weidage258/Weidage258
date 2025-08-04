@@ -11,7 +11,9 @@
         <img src="https://badgen.net/badge/Blog/Weidage258/blue?icon=blog" />
     </a>
 </p>
-[![This is me](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=15485F&center=true&width=1400&lines=%E6%92%B8%E8%B5%B7%E8%A2%96%E5%AD%90%E5%8A%A0%E6%B2%B9%E5%B9%B2%EF%BC%8C%E6%94%BB%E5%9D%9A%E5%85%8B%E9%9A%BE%EF%BC%8C%E7%BC%96%E5%86%99%E6%A2%A6%E6%83%B3%EF%BC%9B%E8%BF%BD%E6%B1%82%E5%8D%93%E8%B6%8A%EF%BC%8C%E6%8C%91%E6%88%98%E6%9E%81%E9%99%90%EF%BC%8C%E6%88%90%E5%B0%B1%E6%9C%AA%E6%9D%A5%EF%BC%81)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=15485F&center=true&width=1400&lines=%E6%92%B8%E8%B5%B7%E8%A2%96%E5%AD%90%E5%8A%A0%E6%B2%B9%E5%B9%B2%EF%BC%8C%E6%94%BB%E5%9D%9A%E5%85%8B%E9%9A%BE%EF%BC%8C%E7%BC%96%E5%86%99%E6%A2%A6%E6%83%B3%EF%BC%9B%E8%BF%BD%E6%B1%82%E5%8D%93%E8%B6%8A%EF%BC%8C%E6%8C%91%E6%88%98%E6%9E%81%E9%99%90%EF%BC%8C%E6%88%90%E5%B0%B1%E6%9C%AA%E6%9D%A5%EF%BC%81)](https://git.io/typing-svg)
+
 ### 🏆 Profile Trophy
 
 <p align="center">
