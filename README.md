@@ -7,8 +7,8 @@
     <a title="Github Followers" target="_blank" href="https://github.com/Weidage258">
        <img src="https://badgen.net/badge/github/Weidage258/blue?icon=github" />
     </a>
-    <a title="My Blog Site" target="_blank" href="https://blog.csdn.net/qq_20525301?type=blog">
-        <img src="https://weidage258.github.io/blog/" />
+    <a title="My Blog Site" target="_blank" href="https://weidage258.github.io/blog">
+        <img src="https://badgen.net/badge/Blog/Weidage258/blue?icon=blog" />
     </a>
 </p>
 
